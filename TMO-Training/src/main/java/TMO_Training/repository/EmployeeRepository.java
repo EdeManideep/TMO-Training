@@ -1,5 +1,9 @@
 package TMO_Training.repository;
 
-public class EmployeeRepository {
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import TMO_Training.model.Employee;
+
+public interface EmployeeRepository extends JpaRepository<Employee, Long> {
 
 }
