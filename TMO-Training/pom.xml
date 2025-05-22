@@ -8,10 +8,10 @@
 		<version>3.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.DriveAway</groupId>
-	<artifactId>project</artifactId>
+	<groupId>TMO-Training</groupId>
+	<artifactId>TMO-Training</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>project</name>
+	<name>TMO-Training</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
